@@ -1,4 +1,4 @@
-# TheShopkeeper
+# The Shopkeeper
 
 Implement a program that helps shopkeepers in their shops.
 
@@ -12,11 +12,11 @@ Imagine a shopping scenario.
 | -------- |:------:| ----:|
 | Milk     | 1      | 55   |
 | Honey    | 1      | 258  |
-| Eggs     | 1      | 357  |
+| Eggs     | 30     | 300  |
 | Bread    | 1      | 50   |
-| Spinach  | 1      | 42   |
+| Spinach  | 1 bunch |  10  |
 | Towel    | 1      | 256  |
-| Soda     | 1      | 65   |
+| Soda     | 1      | 50   |
 
 
 
